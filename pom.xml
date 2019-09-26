@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.232.214.219:9980/mithuntechnologies/repository/paytm-release/</url>
+	      <url>http://ec2-13-234-122-233.ap-south-1.compute.amazonaws.com:8081/repository/maven-web-app-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.232.214.219:9980/mithuntechnologies/repository/paytm-snapshot/</url>
+	      <url>http://ec2-13-234-122-233.ap-south-1.compute.amazonaws.com:8081/repository/maven-web-app-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
